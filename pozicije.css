@@ -1,0 +1,210 @@
+body {
+     background-image: url('slike/gray-wallpaper-5.jpg');
+     background-position:center;
+    
+     
+}
+#prvastrana-text
+{
+margin-left: 260px;
+margin-right: 260px;
+background-color: white;
+
+
+}
+
+#video
+
+{
+  background-color:white;
+margin-left: 260px;
+margin-right: 260px;
+padding-left: 140px;
+padding-top: 50px;
+padding-bottom: 20px;
+ 
+
+}
+#tekst-video
+{
+
+margin-left: 245px;
+margin-right: 245px;
+background-color: white;
+padding-left: 15px;
+padding-right: 15px;
+
+
+}
+
+#informacije-contact-email
+{
+
+  margin-left:20px;
+  padding-bottom: 40px;
+}
+
+#futer-text
+{
+  
+ margin-left: 30px;
+ padding-top: 10px;
+ padding-bottom: 2px;
+
+
+
+
+}
+#futer
+{
+  padding-top: 20px;
+margin-left: 260px;
+margin-right: 260px;
+background-color: white;
+ font-family: Impact, Charcoal, sans-serif
+
+
+}
+
+#heder-contact
+{
+
+margin-left: 40px;
+padding-bottom: 20px;
+
+}
+
+
+#contact
+{
+  background-color: white;
+  
+  
+  
+  margin-left: 245px;
+  margin-right:245px;
+  font-family: Impact, Charcoal, sans-serif
+
+
+
+}
+
+#mapa
+{
+  position:relative;
+    
+     margin-left: 245px;
+    margin-right: 260px;
+}
+#cenovnik
+{
+background-color: white;
+margin-left: 260px;
+margin-right: 260px;
+padding-top: 200px;
+padding-left: 50px;
+padding-right: 50px;
+padding-bottom: 150px;
+
+
+}
+
+
+#headerlogo
+{
+    background-image: url('slike/300x200_paciotti.png');
+ background-repeat:no-repeat;
+ background-position: center;
+  
+    background-color: white;
+    height: 100px;
+   
+   
+  
+    margin-left:260px;
+    margin-right:260px;
+
+
+}
+
+#header
+{
+
+       margin-left:260px;
+    margin-right:260px;
+}
+
+#sadrzaj 
+
+{
+    background-color:white;
+  
+    margin-left:260px;
+    margin-right:260px;
+   
+
+}
+
+
+#fother 
+{
+  background-color:lightgray;
+     margin-left:260px;
+    margin-right:260px;
+}
+
+
+
+ul.topnav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color:white;
+}
+
+ul.topnav li {float: left;}
+
+ul.topnav li a {
+  display: inline-block;
+  color:black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  transition: 0.3s;
+  font-size: 17px;
+}
+ul.topnav li a:hover {background-color: #555;}
+
+ul.topnav li.icon {display: none;}
+
+@media screen and (max-width:680px) {
+  ul.topnav li:not(:first-child) {display: none;}
+  ul.topnav li.icon {
+    float: right;
+    display: inline-block;
+  }
+}
+@media screen and (max-width:680px) {
+  ul.topnav.responsive {position: relative;}
+  ul.topnav.responsive li.icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  ul.topnav.responsive li {
+    float: none;
+    display: inline;
+  }
+  ul.topnav.responsive li a {
+    display: block;
+    text-align: left;
+  }
+}
+ .carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 70%;
+      margin: auto;
+  }
+
+
